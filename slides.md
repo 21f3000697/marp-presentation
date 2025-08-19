@@ -38,7 +38,7 @@ Email: 21f3000697@ds.study.iitm.ac.in
 
 ---
 
-<!-- _backgroundImage: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80) -->
+<!-- _backgroundImage: url('background.jpg') -->
 <!-- _backgroundSize: cover -->
 
 # ✨ Features
@@ -48,28 +48,3 @@ Email: 21f3000697@ds.study.iitm.ac.in
 - Easy Conversion (HTML, PDF, PPTX)  
 
 ---
-
-# Algorithmic Complexity
-
-For a sorting algorithm, the time complexity is:
-
-$$
-O(n \log n)
-$$
-
----
-
-<!-- _class: styled -->
-
-# Styling Example
-
-- Custom slide styling using Marp directives.  
-- Uses background, padding, and font customization.  
-
----
-
-# Thank You!
-
-_Questions?_  
-
-Contact: 21f3000697@ds.study.iitm.ac.in
