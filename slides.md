@@ -3,13 +3,8 @@ marp: true
 theme: uncover
 paginate: true
 footer: "Contact: 21f3000697@ds.study.iitm.ac.in"
----
-
----
-marp: true
 math: mathjax
 ---
-
 
 <!-- _class: title -->
 
@@ -29,15 +24,9 @@ Email: 21f3000697@ds.study.iitm.ac.in
 - Markdown-First
 - Easy Conversion (HTML, PDF, PPTX)
 
-
 ---
 
 # Algorithmic Complexity
----
-marp: true
-math: mathjax
----
-
 
 For a sorting algorithm, the time complexity is:
 
@@ -47,9 +36,9 @@ $$
 
 ---
 
-# Styling Example
-
 <!-- _style: "font-size: 28px; background: #e4f2fb; color: #1a232d;" -->
+
+# Styling Example
 
 - Custom slide styling using Marp directives.
 
