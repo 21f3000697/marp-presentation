@@ -38,10 +38,10 @@ Email: 21f3000697@ds.study.iitm.ac.in
 
 ---
 
-<!-- _backgroundImage: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80) -->
+<!-- _backgroundImage: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80) -->
 <!-- _backgroundSize: cover -->
 
-# Features
+# ✨ Features
 
 - Version Controlled  
 - Markdown-First  
